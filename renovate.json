@@ -9,6 +9,7 @@
     ":prHourlyLimitNone",
     ":timezone(Asia/Tokyo)"
   ],
+  "dependencyDashboard": false,
   "labels": ["renovate"],
   "prConcurrentLimit": 0,
   "prHourlyLimit": 0,
