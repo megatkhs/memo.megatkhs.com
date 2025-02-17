@@ -7,10 +7,9 @@
   },
   "files": {
     "ignoreUnknown": false,
-    "ignore": []
+    "ignore": [".next", "public"]
   },
   "formatter": {
-    "ignore": [".next", "public"],
     "enabled": true,
     "formatWithErrors": false,
     "indentStyle": "space",
@@ -23,7 +22,6 @@
     "enabled": true
   },
   "linter": {
-    "ignore": [".next", "public"],
     "enabled": true,
     "rules": {
       "recommended": true
