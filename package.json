@@ -20,6 +20,8 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "postcss": "8.5.2",
+    "postcss-preset-env": "10.1.4",
     "typescript": "^5"
   },
   "engines": {
